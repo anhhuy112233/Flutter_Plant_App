@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320596424595",
+    "project_id": "plant-app-221fe",
+    "storage_bucket": "plant-app-221fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320596424595:android:513ab4c1fffc1c39b11a66",
+        "android_client_info": {
+          "package_name": "com.example.flutter_plants_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0xqH44MPokL7ubVQyPz8kX14n0an2NT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
