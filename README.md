@@ -15,14 +15,20 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# Link Github: https://github.com/anhhuy112233/Flutter_Plant_App
-# Tên Project: Flutter_Plant_App
+# Link Github: [Flutter_Plant_App](https://github.com/anhhuy112233/Flutter_Plant_App)
+
 ## Hướng dẫn cài đặt và chạy ứng dụng: 
-### Bước 1: Tải xuống phần code và cài đặt bằng cách nhấp vào <Code> màu xanh góc phải màn hình chúng ta sẽ thấy dòng
-Dowload Zip nhấn vô tải về và giải nén nó. Ngoài ra chúng ta có thể cài đặt bằng cách mở Command Prompt , git clone https://github.com/anhhuy112233/Flutter_Plant_App.git vào thư mục mà bạn muốn chứa file dự án.
-### Bước 2: Mở folder vào trong Visual Studio Code tiếp theo đó là code Run & Debug tại thư mục lib có chưa file main.dart để chạy dự án.
+### Bước 1: 
+Tải xuống mã nguồn bằng cách nhấp vào nút <Code> màu xanh ở góc phải màn hình và chọn "Download ZIP". Giải nén tệp tin sau khi tải về. Ngoài ra, bạn có thể cài đặt bằng cách mở Command Prompt và chạy lệnh `git clone https://github.com/anhhuy112233/Flutter_Plant_App.git` trong thư mục bạn muốn lưu dự án.
 
-# Trong dự án có các phần với các chức năng sau:
-## Onboarding Screen đây là phần có chức năng là hiển thị ra màn hình giới thiệu ứng dụng
-## 
+### Bước 2: 
+Mở thư mục trong Visual Studio Code, sau đó chọn và chạy tệp `main.dart` để khởi động dự án.
 
+# Các chức năng trong dự án:
+- **Onboarding Screen:** Hiển thị màn hình giới thiệu ứng dụng.
+- **Login, Register, Forgot Password Page:** Giao diện đăng nhập, đăng ký và khôi phục mật khẩu.
+- **Home Page:** Trang chức năng hiển thị giao diện tổng quát của trang web. Người dùng có thể xem nhiều loại cây khác nhau và nhấn vào từng loại để chuyển đến trang thông tin chi tiết về cây đó. Tại đây, họ có thể thêm vào danh sách yêu thích hoặc đặt hàng.
+- **Scan Page:** Có chức năng quét và phân tích về các loại cây khác nhau.
+- **Favorites Page:** Hiển thị các loại cây được người dùng yêu thích.
+- **Cart Page:** Hiển thị giỏ hàng của người dùng.
+- **Profile Page:** Hiển thị thông tin cá nhân của người dùng.
